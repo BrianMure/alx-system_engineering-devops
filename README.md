@@ -1,1 +1,1 @@
-My second readme
+This is a script that prints absolute path name
