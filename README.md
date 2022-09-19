@@ -1,1 +1,1 @@
-In this project, I became familiar connecting to and working with servers using the SSH protocol. I worked on a server provided by ALX.
+This repository contains programs written for the system engineering and DevOps track at ALX Africa SE. In these projects, I worked with Bash and practiced writing Bash scripts to automate tasks.
